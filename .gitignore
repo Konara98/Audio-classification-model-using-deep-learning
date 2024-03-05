@@ -1,1 +1,6 @@
-./UrbanSound8K
+# Ignore audio files
+*.mp3
+*.wav
+*.txt
+*.csv
+*.Ds_Store
